@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Fernando</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">DevOps Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinfer&label=Profile%20views&color=0e75b6&style=flat" alt="sachinfer" /> </p>
 
