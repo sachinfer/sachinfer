@@ -1,36 +1,4 @@
-# Hi there! 👋
-
-I'm **Sachin Fernando** . 🚀  
-Whether it's websites, applications, or tools that make life easier – I'm all about creating things that **work well** and **look good**.
-
-![Peace Sign](https://em-content.zobj.net/source/twitter/348/victory-hand_270c-fe0f.png)
-
----
-
-### 🚧 What I’m currently working on:
-- Improving my full-stack dev skills
-- Open source side projects
-- Exploring more about DevOps and cloud technologies
-
-### 💡 Fun facts:
-- I thrive on solving real-world problems with code
-- I enjoy clean, minimalist design (yes, dark mode always 🖤)
-- Big fan of productivity hacks and keyboard shortcuts ⚡
-
----
-
-### 📫 Reach out!
-You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [Your Website](https://yourwebsite.dev)
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-Peace ✌️
-
+<h1 align="center">Hi 👋, I'm Sachin Fernando</h1>
 <!-- <h3 align="center">DevOps Enginner</h3> -->
 
 <h3 align="left">Connect with me:</h3>
