@@ -22,9 +22,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.a.m.sachin" height="30" width="40" />
   </a>
   <a href="https://huggingface.co/sachinfer" target="blank">
-    <img align="center" src="https://github.com/sachinfer/profile-assets/blob/main/assets/huggingface.png?raw=true" alt="huggingface" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/sachinfer/profile-assets/main/huggingface.png" alt="huggingface" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
