@@ -9,6 +9,8 @@
 <a href="https://kaggle.com/sachinfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sachinfe" height="30" width="40" /></a>
 <a href="https://fb.com/sachin navoda fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin navoda fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/i.a.m.sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.a.m.sachin" height="30" width="40" /></a>
+<a href="https://huggingface.co/sachinfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="sachinfer" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
